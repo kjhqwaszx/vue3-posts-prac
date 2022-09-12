@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "title": "테스트1",
+      "content": "테스트1",
+      "createdAt": 1662483940550,
+      "id": 1
+    },
+    {
+      "title": "테스트2",
+      "content": "테스트2",
+      "createdAt": 1662483940550,
+      "id": 2
+    },
+    {
+      "title": "테스트4",
+      "content": "테스트4",
+      "createdAt": 1662483940550,
+      "id": 4
+    },
+    {
+      "title": "테스트7",
+      "content": "테스트7",
+      "createdAt": 1662483940550,
+      "id": 7
+    },
+    {
+      "title": "테스트8",
+      "content": "테스트8",
+      "createdAt": 1662483940550,
+      "id": 8
+    },
+    {
+      "title": "테스트9-2",
+      "content": "테스트9-2",
+      "createdAt": 1662984728307,
+      "id": 9
+    },
+    {
+      "title": "테스트10-1",
+      "content": "테스트10-1",
+      "createdAt": 1662985114575,
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
